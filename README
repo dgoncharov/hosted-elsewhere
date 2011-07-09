@@ -1,0 +1,8 @@
+http://remv.sf.net
+remv is a command line tool which moves files and directories by regular
+expressions.
+
+
+http://timerpool.sf.net
+timerpool is a portable, thread-safe c++ library which simplifies running lots
+of timers.
